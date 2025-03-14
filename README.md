@@ -6,8 +6,8 @@ This notebook demonstrates the construction and execution of a state graph for a
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Graph Nodes](#graph-nodes)
-- [Graph Edges](#graph-edges)
+- [Graph Nodes](#Define-nodes)
+- [Graph Edges](#Define-edges)
 - [Graph Compilation](#graph-compilation)
 - [Visualization](#visualization)
 
